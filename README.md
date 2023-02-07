@@ -1,1 +1,1 @@
-fIRST readme was upadted
+first readme was upadted
